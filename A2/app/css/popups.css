@@ -1,0 +1,161 @@
+.mdl-dialog
+{
+    margin-top: auto;
+    margin: auto;
+    width: 80vh !important;
+    height: 50vh !important;
+}
+.mdl-button-confirmButton
+{
+    position: absolute !important;
+    right: 10px !important;
+    bottom: 10px !important;
+    font-size: 28pt !important;
+    width: 25vh !important;
+    height: 4vh !important; 
+}
+
+.mdl-button-backButton
+{
+    position: absolute !important;
+    left: 10px !important;
+    top: 10px !important;
+    height: 60px !important;
+    width: 60px !important;
+}
+
+.text{
+    font-size: 28pt !important;
+}
+
+.text-left
+{
+    text-align: left;
+    font-size: 18pt !important;
+}
+
+.material-icons-top
+{
+    font-size: 28pt !important;
+    color: black !important;
+    position: absolute !important;
+    top: 0px;
+    left: 0px;
+}
+
+input{
+    display: flex;
+    height: 28pt;
+    font-size: 24pt;
+    width: 80% !important;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: lightgrey;
+
+}
+/*
+.dateSelect
+{
+    margin-top: auto;
+    margin-bottom: auto;
+    margin-left: auto;
+    margin-right: auto;
+    background-color:white;
+    text-align: center;
+    width: 50%;
+    height: 50%;
+}
+*/
+.mdl-data-table
+{
+    width: 40%;
+    margin-right: auto;
+    margin-left: auto;
+    text-align: center;
+    align-items : center;
+}
+
+.demo-list-icon {
+    width: 300px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+h2
+{
+    font-size: 48pt !important;
+    text-align: center;
+}
+
+.mdl-cell--12-col
+{
+  height: 85vh;
+}
+
+.mdl-data-table {
+  font-family: arial, sans-serif;
+  text-align: center;
+  height: 60px;
+}
+
+.mdl-dialog__content {
+    font-size: 28pt;
+    text-align: center;
+}
+
+
+td{
+  text-align: center !important;
+  font-size: 28pt !important;
+  padding: 15px !important;
+  border: 1px solid black !important;
+  width: 10% !important;
+}
+
+tr{
+  background-color: #ffc107 !important;
+  text-align: center !important;
+  color: black !important;
+  height: 80px !important;
+  font-size: 28pt !important;
+  border: 1px solid black !important;
+}
+
+
+.icon-center
+{
+    text-align: center;
+}
+
+.icon-align
+{
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+.routes-table
+{ 
+  position: relative;
+   overflow-y:scroll !important;
+   height:360px !important;
+   width: 580px !important;
+   display:block !important;
+}
+
+.material-icons-large
+{
+    font-size: 38pt !important;
+    position: relative !important;
+    color: #ffc107 !important;
+}
+
+.material-icons-white
+{
+    font-size: 32pt !important;
+    position: absolute !important;
+    left: auto;
+    right: auto;
+    color: white !important;
+}

@@ -1,0 +1,37 @@
+input[type=text] {
+    background-color: #e5e5e5;
+    border-color: #5e5e5e;
+    width: 80vh;
+    height: 50pt;
+    font-size:18pt;
+  }
+input[type=password] {
+  background-color: #e5e5e5;
+  border-color: #5e5e5e;
+  width: 80vh;
+  height: 50pt;
+  font-size:18pt;
+}
+
+.mdl-buttonmdl-js-buttonmdl-button--raisedmdl-js-ripple-effectmdl-button--coloredmdl-color-text--black {
+    width: 80vh;
+    height: 54pt;
+    font-size: 18pt;
+    background-color: #fcc438;
+    border-color: black;
+    display:block;
+}
+
+.text-center
+{
+    text-align: center;
+}
+
+.button-center
+{
+    display: flex;
+    width: 80vh;
+    margin-right: auto;
+    margin-left: auto;
+}
+

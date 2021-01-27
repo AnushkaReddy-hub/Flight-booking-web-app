@@ -1,0 +1,86 @@
+.mdl-grid
+{
+  margin-top: 20vh;
+}
+
+.mdl-cell--12-col
+{
+  height: 85vh;
+  display: block;
+  width: 100vh;
+  position: relative;
+  margin-top: 20vh;
+  margin-bottom: 20vh;
+}
+
+.mdl-data-table {
+  font-family: arial, sans-serif;
+  text-align: center;
+  height: 60px;
+  position: fixed;
+  
+}
+
+
+td{
+  border: 1px solid #ffc107;
+  text-align: center;
+  font-size: 28pt !important;
+  padding: 15px;
+  
+
+}
+
+tr {
+  background-color: #ffc107;
+  text-align: center !important;
+  height: 80px !important;
+}
+
+.center {
+  position: fixed;
+  margin-left: auto;
+  margin-right: auto;
+  height: 85vh;
+  overflow: scroll;
+  text-align: center;
+  margin-top: auto;
+  margin-bottom: auto;
+}
+
+.mdl-data-table__cell--non-numeric
+{
+  width: 50vh;
+  text-align: center !important;
+}
+
+
+.mdl-data-table__cell--date
+{
+  width: 50vh;
+  text-align: center !important;
+}
+
+.material-icons-cancel
+{
+  position: relative !important;
+  font-size: 28pt !important;
+}
+.material-icons-summary
+{
+  position: absolute;
+  top: 0px;
+  left: 0px;
+}
+
+.mdl-button
+{
+  color: white;
+  height: 78px;
+}
+
+.table-country-header
+{
+  font-size: 28pt !important;
+}
+

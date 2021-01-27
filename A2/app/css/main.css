@@ -1,0 +1,90 @@
+.mdl-layout__header{
+    margin: 0;
+    padding: 0;
+    height: 120px;
+}
+
+.mdl-layout-title
+{
+    margin-top: auto;
+    margin-bottom: auto;
+    text-align: center;
+}
+
+.mdl-layout__drawer-button
+{
+    position: absolute;
+    left: 15px;
+    top: 15px;
+    height: 100px !important;
+    width: 100px !important;
+}
+
+.material-icons
+{
+    position: absolute;
+    left: 18px;
+    top: 18px;
+    text-align: center;
+    margin-top: auto;
+    margin-bottom: auto;
+    font-size: 48pt !important;
+}
+
+body {
+    background-image: url('../img/honeycomb.png');
+    background-position: center; /* Center the image */
+    background-repeat: no-repeat; /* Do not repeat the image */
+    background-size: cover;
+    }
+
+#map{
+    height: 85vh;
+}
+
+h2{
+    font-size: 48pt !important;
+}
+
+h3{
+    font-size: 24pt !important;
+}
+
+.text{
+    font-size: 24pt !important;
+    
+}
+
+button{
+    font-size: 28pt !important;
+}
+
+.drawer-logo{
+    display: inline-block;
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.mdl-navigation{
+    height: 80%;
+}
+
+.drawer-login-button {
+    margin-top: 48vh;
+    text-align: center;
+}
+
+.mdl-button--login{
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    
+    font-size: 28pt !important;
+    
+}
+
+.mdl-navigation__link {
+    font-size: 24pt !important;
+    text-align: center;
+}

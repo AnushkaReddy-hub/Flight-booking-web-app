@@ -1,0 +1,164 @@
+select{
+    display: flex;
+    height: 28pt;
+    font-size: 24pt;
+    width: 80% !important;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: lightgrey;
+
+}
+
+input[type=date]{
+    display: flex;
+    height: 28pt;
+    font-size: 24pt;
+    width: 80% !important;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: lightgrey;
+
+}
+
+datalist{
+    display: flex;
+    width: 40% !important;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+option{
+    display: flex;
+    width: 20% !important;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h3{
+    display: flex;
+    width: max-content !important;
+    margin-left: auto !important;
+    margin-right: auto !important;
+    text-align: center !important;
+    background-color: white;
+    width: max-content;
+}
+
+.mdl-button-view{
+    height: 100% !important;
+    width: 380px !important;
+}
+
+.countrySelect
+{
+    margin-top: auto;
+    margin-bottom: auto;
+    position: absolute;
+    left: 493px;
+    top: 25px;
+    background-color:white;
+    text-align: center;
+    height: 91px;
+    width: 380px;
+}
+
+.airportSelect
+{
+    margin-top: auto;
+    margin-bottom: auto;
+    position: absolute;
+    right: 16px;
+    top: 25px;
+    background-color:white;
+    text-align: center;
+    height: 91px;
+    width: 380px;
+}
+
+.dateSelect
+{
+    margin-top: auto;
+    margin-bottom: auto;
+    position: absolute;
+    left: 16px;
+    top: 25px;
+    background-color:white;
+    text-align: center;
+    height: 91px;
+    width: 380px;
+}
+
+.routeSelect
+{
+    margin-top: auto;
+    margin-bottom: auto;
+    position: absolute;
+    right: 16px;
+    top: 116px;
+    background-color:white;
+    text-align: center;
+    height: 91px;
+    width: 380px;
+}
+
+.viewTrip
+{
+    position: absolute;
+    left: 16px;
+    top: 16px;
+    height: 100px;
+}
+
+.planTrip
+{
+    position: absolute;
+    right: 16px;
+    bottom: 16px;
+    height: 100px;
+}
+
+.planTrip1
+{
+    position: absolute;
+    right: 16px;
+    top: 16px;
+    height: 100px;
+}
+
+.selectMarginCountry{
+    position: absolute;
+    background-color:white;
+    left: 493px;
+    top: 16px;
+    height: 100px;
+    width: 380px;
+}
+
+.selectMarginAirport{
+    position: absolute;
+    background-color:white;
+    right: 16px;
+    top: 16px;
+    height: 100px;
+    width: 380px;
+}
+
+.selectMarginDate{
+    position: absolute;
+    background-color:white;
+    left: 16px;
+    top: 16px;
+    height: 100px;
+    width: 380px;
+}
+
+.mapboxgl-popup-close-button
+{
+    display: none;
+}
+
+.mapboxgl-popup-content
+{
+    width: fit-content;
+    height: fit-content;
+}

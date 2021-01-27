@@ -1,0 +1,117 @@
+.mdl-dialog
+{
+    margin-top: auto;
+    margin: auto;
+    width: 80vh !important;
+    height: 50vh !important;
+    
+}
+.mdl-dialog__actions
+{
+    height: 15% !important;
+    
+}
+.mdl-button-confirmButton
+{
+    position: absolute !important;
+    right: 10px !important;
+    bottom: 10px !important;
+    font-size: 28pt !important;
+}
+
+.mdl-button-backButton
+{
+    position: absolute !important;
+    left: 10px !important;
+    top: 10px !important;
+    height: 60px !important;
+    width: 60px !important;
+}
+
+.text{
+    font-size: 28pt !important;
+    
+}
+
+.material-icons
+{
+    font-size: 28pt !important;
+}
+
+input{
+    display: flex;
+    height: 28pt;
+    font-size: 24pt;
+    width: 80% !important;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: lightgrey;
+
+}
+
+.dateSelect
+{
+    margin-top: auto;
+    margin-bottom: auto;
+    margin-left: auto;
+    margin-right: auto;
+    background-color:white;
+    text-align: center;
+    width: 50%;
+    height: 50%;
+}
+
+.mdl-data-table
+{
+    width: 20%;
+    margin-right: auto;
+    margin-left: auto;
+    text-align: center;
+    align-items : center;
+    position: absolute;
+}
+
+.demo-list-icon {
+    width: 300px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+h2
+{
+    font-size: 48pt !important;
+    text-align: center;
+}
+
+.mdl-cell--4-col
+{
+  font-size: 28pt !important;
+}
+
+.mdl-data-table {
+  font-family: arial, sans-serif;
+  text-align: center;
+  height: 60px;
+}
+
+th
+{
+    font-size: 28pt !important;
+    text-align: center;
+}
+
+td{
+  border: 1px solid #ffc107;
+  text-align: center;
+  font-size: 28pt !important;
+  padding: 15px;
+}
+
+tr {
+  background-color: #ffc107;
+  text-align: center !important;
+  height: 80px !important;
+  font-size: 28pt !important;
+}
+

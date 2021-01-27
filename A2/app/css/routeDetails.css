@@ -1,0 +1,34 @@
+.route-header
+{
+    font-size: 30pt !important;
+    text-align: center !important;
+}
+
+.route-span
+{ 
+    position: relative;
+    font-size: 28pt !important;
+    text-align: center !important;
+    width: 100px;
+}
+
+.route-details
+{
+    text-align: left !important;
+}
+
+.route-button
+{
+    text-align: center !important;
+    height: fit-content !important;
+    width: fit-content !important;
+}
+
+.material-icons
+{
+    position: relative !important;
+    text-align: center !important;
+    margin-top: auto !important;
+    margin-bottom: auto !important;
+    font-size: 48pt !important;
+}
